@@ -1,0 +1,38 @@
+The use of this application requires the accumulation of some information from your user and guild. 
+The adding of this application to your server and subsequent use of this application is an agreement to this.
+
+Access Of Data
+
+The data stored in this application is only accessible to the developer team. 
+The information stored will never be sold, or shared to any extent.
+The only use of this information is for the development and testing of this application.
+
+Data Stored
+
+This application stores a very limited amount of data and only stores what is required for base functions.
+It stores:
+
+- When you add a quote to this application, it will store the details of the quote, which includes:
+    - all the information you enter (Quote and speaker text fields)
+    - The guild ID that you are quoting in
+    - The user who ran the command's ID
+
+Storage of Data
+
+The service used to host this application is the same in use to store the data. 
+This provider has built-in protection to stop any third party access to any information.
+Although there is protection there is no guarantee that there won't be a data breach and 
+application developers hold no responsibility for any breaches in security.
+If a data breach happens, all users will be informed ASAP.
+
+Manual Removal of Data
+
+At any time, any user of this application has a right to get in contact with the owner or admin of the 
+support server to have the date removed, however any data removed will mean this data is lost and cant be accessed from anyone anymore
+Or if a server doesnt want their server ID stored, this will completely cease function of the application in their server.
+To reach the owner, there is a dedicated server that you can join to get in contact with the Devs.
+
+Automatic Removal of Data
+
+As for the application removing data, when a server removes the application from their server, all of their data and ID's
+stored from that server will be remnoved and will only be gotten back if the application is readded.
