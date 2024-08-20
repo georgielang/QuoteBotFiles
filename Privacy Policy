@@ -13,7 +13,7 @@ This application stores a very limited amount of data and only stores what is re
 It stores:
 
 - When you add a quote to this application, it will store the details of the quote, which includes:
-    - all the information you enter (Quote and speaker text fields)
+    - All the information you enter (Quote and speaker text fields)
     - The guild ID that you are quoting in
     - The user who ran the command's ID
 
@@ -35,4 +35,5 @@ To reach the owner, there is a dedicated server that you can join to get in cont
 Automatic Removal of Data
 
 As for the application removing data, when a server removes the application from their server, all of their data and ID's
-stored from that server will be remnoved and will only be gotten back if the application is readded.
+are archived for a month before getting permanantely deleted. This is so people have a chance to collect their quotes 
+if they want to after the bot has been removed.
